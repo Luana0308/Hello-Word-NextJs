@@ -15,7 +15,10 @@ export default function Navbar() {
         <Link href="/about">Sobre</Link>
       </li>
       <li>
-        <Link href="/contact">Contato</Link>
+        <Link href="/contat">Contato</Link>
+      </li>
+      <li>
+        <Link href="/todo">Tarefas</Link>
       </li>
     </ul>
   )
