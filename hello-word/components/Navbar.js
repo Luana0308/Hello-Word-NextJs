@@ -18,7 +18,7 @@ export default function Navbar() {
         <Link href="/contat">Contato</Link>
       </li>
       <li>
-        <Link href="/todo">Tarefas</Link>
+        <Link href="/todos">Tarefas</Link>
       </li>
     </ul>
   )
